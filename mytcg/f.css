@@ -1,0 +1,15 @@
+.success, .error {
+padding:10px 15px 12px 45px;
+margin-top:15px;
+border-radius: 10px;
+-moz-border-radius: 10px;
+}
+
+.success {
+border:1px solid #73ac4c;
+background:#b3e194 url("tick.png") 2% 50% no-repeat;
+}
+.error {
+border:1px solid #999;
+background:#ddd url("delete.png") 2% 50% no-repeat;
+}
