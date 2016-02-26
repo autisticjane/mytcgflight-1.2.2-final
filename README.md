@@ -1,7 +1,9 @@
 mtcgflight-1.2.2
 ================
 
-Final version of my MyTCG news hack.
+This is the final version of the MyTCG news hack!
+
+Flight has since been adopted by Nina, who has an updated version available at http://nation.magical-me.net.
 
 ## Installation
  1. Open mytcg/db.php & change settings accordingly.
