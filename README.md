@@ -13,7 +13,7 @@ Flight has since been adopted by Nina, who has an updated version available at h
  5. In your navigation, add a link to news.php.
 
 ## Help, support, etc.
-Flight is no longer supported, however, I MAY be able to help you.
+*I* am no longer offering support for this software.
 
 ## Special thanks to...
  - All who were brave enough to use this & patient with me. :}
@@ -21,5 +21,5 @@ Flight is no longer supported, however, I MAY be able to help you.
 
 ## You may find me @
   - 6birds (http://6birds.net)
-  - #amcoding (http://6birds.net/code)
+  - dev. (http://dev.janepedia.com)
   - Twitter @gotjane (http://twitter.com/gotjane)
