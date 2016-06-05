@@ -5,6 +5,8 @@ This is the final version of the MyTCG news hack!
 
 Flight has since been adopted by Nina, who has an updated version available at http://nation.magical-me.net.
 
+I am working on a simplified news hack. You may view releases @ https://github.com/gotjane/simplenews/releases.
+
 ## Installation
  1. Open mytcg/db.php & change settings accordingly.
  2. Upload files to server.
