@@ -3,9 +3,7 @@ mtcgflight-1.2.2
 
 This is the final version of the MyTCG news hack!
 
-Flight has since been adopted by Nina, who has an updated version available at http://nation.magical-me.net.
-
-I am working on a simplified news hack. You may view releases @ https://github.com/gotjane/simplenews/releases.
+Flight was adopted by Nina, another online trading card game player. Development has since discontinued altogether.
 
 ## Installation
  1. Open mytcg/db.php & change settings accordingly.
@@ -22,6 +20,6 @@ I am working on a simplified news hack. You may view releases @ https://github.c
  - nina21 from Exposure Forums for the clickable BBCode & emoticons.
 
 ## You may find me @
-  - 6birds (http://6birds.net)
-  - dev. (http://dev.janepedia.com)
-  - Twitter @gotjane (http://twitter.com/gotjane)
+  - izzy.im (https://izzy.im)
+  - dev. (https://izzy.blog/category/dev/)
+  - Twitter @gotjane (https://twitter.com/thejanelively)
