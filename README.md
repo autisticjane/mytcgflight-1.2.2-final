@@ -18,8 +18,3 @@ Flight was adopted by Nina, another online trading card game player. Development
 ## Special thanks to...
  - All who were brave enough to use this & patient with me. :}
  - nina21 from Exposure Forums for the clickable BBCode & emoticons.
-
-## You may find me @
-  - izzy.im (https://izzy.im)
-  - dev. (https://izzy.blog/category/dev/)
-  - Twitter @gotjane (https://twitter.com/thejanelively)
