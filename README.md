@@ -1,4 +1,4 @@
-mtcgflight-1.2.2
+mytcgflight-1.2.2
 ================
 
 This is the final version of the MyTCG news hack!
